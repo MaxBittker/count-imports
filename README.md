@@ -1,5 +1,5 @@
 # count-imports
-what modules are imported the most in your webpack project? 
+what modules are imported the most in your webpack build? 
 
 `webpack --json > compilation-stats.json && node count.js` 
 
